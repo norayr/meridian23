@@ -1,0 +1,177 @@
+object Form1: TForm1
+  Left = 125
+  Height = 425
+  Top = 336
+  Width = 800
+  Caption = 'Form1'
+  ClientHeight = 425
+  ClientWidth = 800
+  OnClose = FormClose
+  OnCreate = FormCreate
+  OnPaint = FormPaint
+  OnShow = FormShow
+  LCLVersion = '1.0.1.3'
+  object StatusBar1: TStatusBar
+    Left = 0
+    Height = 19
+    Top = 406
+    Width = 800
+    Panels = <>
+  end
+  object Panel1: TPanel
+    Left = 0
+    Height = 406
+    Top = 0
+    Width = 800
+    Align = alClient
+    ClientHeight = 406
+    ClientWidth = 800
+    TabOrder = 1
+    object Edit1: TEdit
+      Left = 560
+      Height = 23
+      Top = 288
+      Width = 227
+      TabOrder = 0
+      Text = 'Edit1'
+    end
+    object Edit2: TEdit
+      Left = 560
+      Height = 23
+      Top = 320
+      Width = 227
+      EchoMode = emPassword
+      PasswordChar = '*'
+      TabOrder = 1
+      Text = 'Edit2'
+    end
+    object Button1: TButton
+      Left = 664
+      Height = 25
+      Top = 360
+      Width = 123
+      Caption = 'Button1'
+      OnClick = Button1Click
+      TabOrder = 2
+    end
+    object Edit3: TEdit
+      Left = 560
+      Height = 23
+      Top = 360
+      Width = 96
+      OnKeyPress = Edit3KeyPress
+      TabOrder = 3
+      Text = 'Edit3'
+    end
+    object Label1: TLabel
+      Left = 480
+      Height = 16
+      Top = 295
+      Width = 44
+      Caption = 'Label1'
+      ParentColor = False
+    end
+    object Label2: TLabel
+      Left = 456
+      Height = 16
+      Top = 327
+      Width = 44
+      Caption = 'Label2'
+      ParentColor = False
+    end
+    object Label3: TLabel
+      Left = 480
+      Height = 16
+      Top = 367
+      Width = 44
+      Caption = 'Label3'
+      ParentColor = False
+    end
+    object Memo1: TMemo
+      Left = 0
+      Height = 242
+      Top = 168
+      Width = 288
+      ScrollBars = ssAutoBoth
+      TabOrder = 4
+    end
+    object Button2: TButton
+      Left = 720
+      Height = 48
+      Top = 40
+      Width = 67
+      Caption = 'Button2'
+      OnClick = Button2Click
+      TabOrder = 5
+    end
+    object Button3: TButton
+      Left = 720
+      Height = 48
+      Top = 184
+      Width = 67
+      Caption = 'Button3'
+      OnClick = Button3Click
+      TabOrder = 6
+    end
+    object Label4: TLabel
+      Left = 720
+      Height = 16
+      Top = 8
+      Width = 44
+      Caption = 'Label4'
+      ParentColor = False
+    end
+    object Label5: TLabel
+      Left = 712
+      Height = 16
+      Top = 104
+      Width = 44
+      Caption = 'Label5'
+      ParentColor = False
+    end
+    object ListBox1: TListBox
+      Left = 560
+      Height = 185
+      Top = 96
+      Width = 144
+      ItemHeight = 0
+      OnSelectionChange = ListBox1SelectionChange
+      ScrollWidth = 140
+      TabOrder = 7
+      TopIndex = -1
+    end
+    object Button4: TButton
+      Left = 720
+      Height = 41
+      Top = 240
+      Width = 67
+      Caption = 'Button4'
+      OnClick = Button4Click
+      TabOrder = 8
+    end
+    object Button5: TButton
+      Left = 560
+      Height = 64
+      Top = 24
+      Width = 144
+      Caption = 'Button5'
+      OnClick = Button5Click
+      TabOrder = 9
+    end
+    object Image1: TImage
+      Left = 40
+      Height = 354
+      Top = 24
+      Width = 410
+    end
+    object Label6: TLabel
+      Left = 312
+      Height = 16
+      Top = 184
+      Width = 44
+      Caption = 'Label6'
+      ParentColor = False
+      OnClick = Label6Click
+    end
+  end
+end

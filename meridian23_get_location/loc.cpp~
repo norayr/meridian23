@@ -1,0 +1,38 @@
+#include <QGeoCoordinate>
+#include <QtCore/QCoreApplication>
+#include "loc.h"
+locator::locator(QObject * parent)
+{
+//	QGeoPositionInfoSource*	m_pli= NULL;                                                                  
+		m_pli=QGeoPositionInfoSource::createDefaultSource(this);
+		m_pli->setPreferredPositioningMethods(QGeoPositionInfoSource::SatellitePositioningMethods);
+		connect(m_pli,SIGNAL(positionUpdated(QGeoPositionInfo)),this,SLOT(positionUp(QGeoPositionInfo)));
+		m_pli->startUpdates();
+//	qreal latitude = 0.0;
+//	qreal longitude = 0.0;
+// startLocationAPI();
+}
+locator::~locator()
+{
+}
+//void locator::startLocationAPI()                                                                  
+//{
+//	if(!m_pli)
+//	{
+//		m_pli=QGeoPositionInfoSource::createDefaultSource(this);
+//		m_pli->setPreferredPositioningMethods(QGeoPositionInfoSource::SatellitePositioningMethods);
+//		connect(m_pli,SIGNAL(positionUpdated(QGeoPositionInfo)),this,SLOT(positionUp(QGeoPositionInfo)));
+//		m_pli->startUpdates();
+//	}
+//}
+void locator::positionUp(QGeoPositionInfo gpi)
+	                                                                  
+{
+	if(gpi.isValid())
+	{
+		QGeoCoordinate gc=gpi.coordinate();
+	 latitude = gc.latitude();
+		 longitude = gc.longitude();
+	}
+}
+

@@ -1,0 +1,385 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="34">
+      <Unit0>
+        <Filename Value="meridian23.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="meridian23"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="3" Y="12"/>
+        <UsageCount Value="200"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="ui.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="ui"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="4"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="347"/>
+        <CursorPos X="39" Y="380"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="mxmpp.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="mxmpp"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="233"/>
+        <CursorPos X="85" Y="285"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="debug.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="debug"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="15" Y="18"/>
+        <UsageCount Value="201"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="maint.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="maint"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="22"/>
+        <CursorPos X="38" Y="22"/>
+        <UsageCount Value="202"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="contacts.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Contacts"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="64"/>
+        <CursorPos X="32" Y="73"/>
+        <UsageCount Value="127"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="osm.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="osm"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="17"/>
+        <CursorPos X="12" Y="28"/>
+        <UsageCount Value="87"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="gpspipe.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="gpspipe"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="77"/>
+        <CursorPos X="39" Y="102"/>
+        <UsageCount Value="86"/>
+        <Loaded Value="True"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="uxmpp/uxmpp.pas"/>
+        <UnitName Value="uxmpp"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="126"/>
+        <CursorPos X="16" Y="149"/>
+        <UsageCount Value="49"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="/tail/home/noch/tmp/meridian23/mxmpp.pas"/>
+        <UnitName Value="mxmpp"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="314"/>
+        <CursorPos X="18" Y="329"/>
+        <FoldState Value=" TLn456-"/>
+        <UsageCount Value="10"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="/tail/home/noch/tmp/meridian23/uxmpp/uxmpp.pas"/>
+        <UnitName Value="uxmpp"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1157"/>
+        <CursorPos X="40" Y="1364"/>
+        <UsageCount Value="10"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="/tail/home/noch/tmp/meridian23/uxmpp/tcpsynapse/tcpsynapse.pas"/>
+        <UnitName Value="tcpsynapse"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="160"/>
+        <CursorPos X="1" Y="179"/>
+        <UsageCount Value="3"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="/local/lazarus/lcl/interfaces/gtk2/gtk2widgetset.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="2384"/>
+        <CursorPos X="1" Y="2404"/>
+        <UsageCount Value="3"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="uxmpp/libxmlparser.pas"/>
+        <UnitName Value="libxmlparser"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="192"/>
+        <CursorPos X="29" Y="218"/>
+        <UsageCount Value="15"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="uxmpp/xmltag.pas"/>
+        <UnitName Value="xmltag"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="597"/>
+        <CursorPos X="2" Y="235"/>
+        <UsageCount Value="17"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="openmap/openmap.pas"/>
+        <UnitName Value="openmap"/>
+        <EditorIndex Value="3"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="365"/>
+        <CursorPos X="51" Y="395"/>
+        <UsageCount Value="99"/>
+        <Loaded Value="True"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="../../env/lazarus/lcl/include/rasterimage.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="536"/>
+        <CursorPos X="1" Y="552"/>
+        <UsageCount Value="3"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="../../env/lazarus/lcl/controls.pp"/>
+        <UnitName Value="Controls"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="2197"/>
+        <CursorPos X="14" Y="2212"/>
+        <UsageCount Value="3"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="/local/lazarus/lcl/include/rasterimage.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="531"/>
+        <CursorPos X="11" Y="544"/>
+        <UsageCount Value="3"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="uxmpp/saslauth.pas"/>
+        <UnitName Value="saslauth"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="14"/>
+        <CursorPos X="3" Y="13"/>
+        <UsageCount Value="9"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="uxmpp/tcpsynapse/tcpsynapse.pas"/>
+        <UnitName Value="tcpsynapse"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="330"/>
+        <CursorPos X="3" Y="330"/>
+        <UsageCount Value="15"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="/tail/home/noch/tmp/meridian23/contacts.pas"/>
+        <UnitName Value="Contacts"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="28"/>
+        <CursorPos X="1" Y="54"/>
+        <UsageCount Value="9"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="synapse/ssl_openssl.pas"/>
+        <UnitName Value="ssl_openssl"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="858"/>
+        <CursorPos X="15" Y="605"/>
+        <UsageCount Value="15"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="uxmpp/xmppconst.pas"/>
+        <UnitName Value="xmppconst"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="13" Y="14"/>
+        <UsageCount Value="15"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="synapse/ssl_openssl_lib.pas"/>
+        <UnitName Value="ssl_openssl_lib"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="81"/>
+        <CursorPos X="23" Y="94"/>
+        <UsageCount Value="3"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="/local/lazarus/lcl/interfaces/fpgui/fpguiwsdialogs.pp"/>
+        <UnitName Value="FpGuiWSDialogs"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="2"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="/tail/home/noch/tmp/meridian23/ui.pas"/>
+        <UnitName Value="ui"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="289"/>
+        <CursorPos X="45" Y="310"/>
+        <UsageCount Value="13"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="/tail/home/noch/tmp/meridian23/gpspipe.pas"/>
+        <UnitName Value="gpspipe"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="71"/>
+        <CursorPos X="51" Y="81"/>
+        <UsageCount Value="8"/>
+      </Unit27>
+      <Unit28>
+        <Filename Value="/tail/local/lazarus/lcl/include/control.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="2722"/>
+        <CursorPos X="61" Y="2728"/>
+        <UsageCount Value="8"/>
+      </Unit28>
+      <Unit29>
+        <Filename Value="ui.lfm"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="6"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit29>
+      <Unit30>
+        <Filename Value="uxmpp/tcpsynapse/synapse/httpsend.pas"/>
+        <UnitName Value="httpsend"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="335"/>
+        <CursorPos X="13" Y="349"/>
+        <UsageCount Value="10"/>
+      </Unit30>
+      <Unit31>
+        <Filename Value="/tail/home/noch/tmp/meridian23/openmap/openmap.pas"/>
+        <UnitName Value="openmap"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="377"/>
+        <CursorPos X="1" Y="417"/>
+        <UsageCount Value="9"/>
+      </Unit31>
+      <Unit32>
+        <Filename Value="/tail/local/lazarus/lcl/include/fpimagebitmap.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="126"/>
+        <CursorPos X="34" Y="133"/>
+        <UsageCount Value="9"/>
+      </Unit32>
+      <Unit33>
+        <Filename Value="/tail/local/lazarus/lcl/lclproc.pas"/>
+        <UnitName Value="LCLProc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="844"/>
+        <CursorPos X="1" Y="865"/>
+        <UsageCount Value="10"/>
+      </Unit33>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="20" HistoryIndex="19">
+      <Position1>
+        <Filename Value="ui.pas"/>
+        <Caret Line="10" Column="6" TopLine="1"/>
+      </Position1>
+      <Position2>
+        <Filename Value="ui.pas"/>
+        <Caret Line="205" Column="33" TopLine="189"/>
+      </Position2>
+      <Position3>
+        <Filename Value="gpspipe.pas"/>
+        <Caret Line="161" Column="20" TopLine="121"/>
+      </Position3>
+      <Position4>
+        <Filename Value="ui.pas"/>
+        <Caret Line="107" Column="21" TopLine="87"/>
+      </Position4>
+      <Position5>
+        <Filename Value="ui.pas"/>
+        <Caret Line="341" Column="16" TopLine="336"/>
+      </Position5>
+      <Position6>
+        <Filename Value="mxmpp.pas"/>
+        <Caret Line="287" Column="13" TopLine="255"/>
+      </Position6>
+      <Position7>
+        <Filename Value="mxmpp.pas"/>
+        <Caret Line="287" Column="13" TopLine="255"/>
+      </Position7>
+      <Position8>
+        <Filename Value="mxmpp.pas"/>
+        <Caret Line="287" Column="13" TopLine="255"/>
+      </Position8>
+      <Position9>
+        <Filename Value="mxmpp.pas"/>
+        <Caret Line="276" Column="20" TopLine="256"/>
+      </Position9>
+      <Position10>
+        <Filename Value="mxmpp.pas"/>
+        <Caret Line="277" Column="19" TopLine="256"/>
+      </Position10>
+      <Position11>
+        <Filename Value="mxmpp.pas"/>
+        <Caret Line="260" Column="49" TopLine="256"/>
+      </Position11>
+      <Position12>
+        <Filename Value="ui.pas"/>
+        <Caret Line="176" Column="42" TopLine="169"/>
+      </Position12>
+      <Position13>
+        <Filename Value="mxmpp.pas"/>
+        <Caret Line="263" Column="16" TopLine="256"/>
+      </Position13>
+      <Position14>
+        <Filename Value="mxmpp.pas"/>
+        <Caret Line="215" Column="44" TopLine="203"/>
+      </Position14>
+      <Position15>
+        <Filename Value="mxmpp.pas"/>
+        <Caret Line="201" Column="48" TopLine="251"/>
+      </Position15>
+      <Position16>
+        <Filename Value="mxmpp.pas"/>
+        <Caret Line="285" Column="85" TopLine="233"/>
+      </Position16>
+      <Position17>
+        <Filename Value="ui.pas"/>
+        <Caret Line="302" Column="57" TopLine="176"/>
+      </Position17>
+      <Position18>
+        <Filename Value="ui.pas"/>
+        <Caret Line="201" Column="3" TopLine="212"/>
+      </Position18>
+      <Position19>
+        <Filename Value="ui.pas"/>
+        <Caret Line="369" Column="6" TopLine="355"/>
+      </Position19>
+      <Position20>
+        <Filename Value="ui.pas"/>
+        <Caret Line="375" Column="11" TopLine="346"/>
+      </Position20>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

@@ -1,0 +1,5 @@
+begin
+
+writeln('hello');
+
+end.

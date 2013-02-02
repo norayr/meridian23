@@ -1,0 +1,10 @@
+#include <QApplication>
+#include "loc.h"
+
+int main(int a, char** c)
+{
+	QApplication app(a,c);
+	locator l;
+
+	return app.exec();
+}
