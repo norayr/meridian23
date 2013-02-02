@@ -8,4 +8,7 @@ some info at TMO
 I intent to port it to SHR on GTA02 and Nemomobile on n900 too. This app soon will be uploaded to extras-devel for maemo fremantle and I think it shold work under maemo diablo too. 
 License is GPLv3.
 
-Also, I may rewrite it from scratch.
+uxmpp library by Devi is used ( https://github.com/devi/uxmpp ), changed to compile with fpc (freepascal compiler), added TPresenceEvent, TIqVcardEvent, modified ParsingPresence and ParsingIq methods (search for "noch" to see the changes).
+
+Also, I may consider to rewrite whole project from scratch.
+
