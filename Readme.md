@@ -1,4 +1,4 @@
-http://norayr.arnet.am/meridian23/
+http://norayr.am/meridian23/
 
 This is my new application for maemo and any GNU + Linux: p2p location sharing.
 It follows decentralized approach, where it is not necessary to pass your location to some central server, like it is done in case of google latitude. 
