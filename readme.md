@@ -1,10 +1,10 @@
 http://norayr.am/meridian23/
 
-![](meridian23.gif)
-![](meridian03_.png)
-![](screenshot04_.png)
-![](screenshot05.png)
-![](screenshot06.png)
+![](screenshots/meridian23.gif)
+![](screenshots/meridian03_.png)
+![](screenshots/screenshot04_.png)
+![](screenshots/screenshot05.png)
+![](screenshots/screenshot06.png)
 
 This is my new application for maemo and any GNU + Linux: p2p location sharing.
 It follows decentralized approach, where it is not necessary to pass your location to some central server, like it is done in case of google latitude.
