@@ -1,7 +1,7 @@
 http://norayr.am/meridian23/
 
-![](meridian03_.png)
 ![](meridian23.gif)
+![](meridian03_.png)
 ![](screenshot04_.png)
 ![](screenshot05.png)
 ![](screenshot06.png)
